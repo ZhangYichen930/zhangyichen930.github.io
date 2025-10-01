@@ -1,16 +1,12 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- First-Prize Scholarship (BUPT), 2023.
 
-- National Scholarship for Graduate Student, 2024.
+- First-Prize Scholarship (BUPT), 2022.
 
-- First-Prize Scholarship (CUMT), 2024.
+- First-Prize Scholarship (BUPT), 2021.
 
-- First-Prize Scholarship (CUMT), 2023.
+- The Third Prize of “Huawei Cup” The 18th China Post-Graduate Mathematical Contest in Modeling, 2022
 
-- Freshman Scholarship (CUMT), 2022.
+- The Second prize of Beijing Undergraduates’ innovation and Entrepreneurship Training Project, 2020.
 
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
 
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.

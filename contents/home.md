@@ -1,17 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ZhangYichen930](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/ZhangYichen930)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+A Ph.D. student at the School of Intelligent Engineering and Automation, Beijing University of Posts and Telecommunications. You can see my detail information in my CV.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: zhangyc930@163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Control Science and Engineering, Beijing University of Posts and Telecommunications, 2024-.\
+M.Sc., Control Science and Engineering, Beijing University of Posts and Telecommunications, 2021—2024.\
+B.Eng., Measurement and control technology and Instrument, Beijing University of Posts and Telecommunications, 2017—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Distributed Computing, Online Optimization.
+
 
