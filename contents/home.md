@@ -2,7 +2,7 @@
 
 [![ZhangYichen930](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/ZhangYichen930)
 
-A Ph.D. student at the School of Intelligent Engineering and Automation, Beijing University of Posts and Telecommunications. You can see my detail information in my CV.
+A Ph.D. student at the School of Intelligent Engineering and Automation, Beijing University of Posts and Telecommunications. You can see my detail information in my [CV](papers/Curriculum Vitae.pdf){:target="_blank"}.
 
 #### Contact
 

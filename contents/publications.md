@@ -1,10 +1,10 @@
 #### Submitted
 
-- Y. Tang, <strong>Y. Zhang</strong>, R. Li, and X. Wang. On measurement disturbances in distributed least squares solvers for linear equations. Submitted for publication.[[Paper]](https://arxiv.org/abs/2305.05512){:target="_blank"}
+- Y. Tang, <strong>Y. Zhang</strong>, R. Li, and X. Wang. On measurement disturbances in distributed least squares solvers for linear equations. Submitted for publication.[[Paper](https://arxiv.org/abs/2305.05512){:target="_blank"}]
 
 #### Published
 
-- <strong>Y. Zhang</strong>, Y. Tang, Z. Tu and Y. Hong. Distributed projection algorithm for solving variational inequalities over time-varying unbalanced digraphs. Control Theory and Technology, 22: 431–441, 2024.[[Paper]](https://www.tangyutao.org/images/2024_CTT_Zhang.pdf){:target="_blank"}
+- <strong>Y. Zhang</strong>, Y. Tang, Z. Tu and Y. Hong. Distributed projection algorithm for solving variational inequalities over time-varying unbalanced digraphs. Control Theory and Technology, 22: 431–441, 2024.[[Paper](https://www.tangyutao.org/images/2024_CTT_Zhang.pdf){:target="_blank"}]
 
 - <strong>Y. Zhang</strong>, Y. Tang. Distributed projection algorithm for solving variational inequalities. In Proc. of 8th International Conference on Network Intelligence and Digital Content (IC-NIDC): 285–289, Beijing, 2023.
 
