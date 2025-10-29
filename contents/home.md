@@ -17,16 +17,7 @@ B.Eng., Measurement and control technology and Instrument, Beijing University of
 Distributed Computing, Online Optimization.
 
 #### Our Research Group
-Founded by Professor YuTao Tang, the group has been operating in a standardized manner since 2021 and is now affiliated with the School of Intelligent Engineering and Automation at Beijing University of Posts and Telecommunications (BUPT). The team currently consists of one principal investigator and approximately ten graduate students.
-
-##### Research Interests
-*   Nonlinear Systems and Control
-*   Multi-agent Systems
-*   Distributed Decision and Control
-*   Robot and Aircraft Control
-*   Machine Learning and Intelligent Diagnosis
-
-##### Detail Information
-*   Group overview: [课题组中文简介](https://www.tangyutao.org/intro)
-*   About Professor Tang: [老师个人主页](https://www.tangyutao.org/)
-*   **Follow us with WeChat**: Stay updated with our latest research and group activities by searching 唐于涛课题组 in WeChat
+Founded by Professor YuTao Tang, the group has been operating in a standardized manner since 2021 and is now affiliated with the School of Intelligent Engineering and Automation at Beijing University of Posts and Telecommunications (BUPT). The team currently consists of one principal investigator and approximately ten graduate students. For more detail information, see.\
+About our group: [课题组中文简介](https://www.tangyutao.org/intro).\
+About Professor Tang: [老师个人主页](https://www.tangyutao.org/).\
+**Follow us with WeChat**: Stay updated with our latest research and group activities by searching 唐于涛课题组 in WeChat
